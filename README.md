@@ -3,4 +3,4 @@
 ## Tags
 
 fuww/elixir-alpine:bash = elixir:alpine + bash
-fuww/elixir-alpine:build = elixir:alpine + gcc make musl-dev
+fuww/elixir-alpine:build = elixir:alpine + gcc make musl-dev git
