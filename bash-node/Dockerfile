@@ -1,3 +1,3 @@
 FROM elixir:alpine
 
-RUN apk add --no-cache bash nodejs
+RUN apk add --no-cache bash nodejs curl
